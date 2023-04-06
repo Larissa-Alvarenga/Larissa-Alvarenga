@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larissa-alvarenga&label=Profile%20views&color=0e75b6&style=flat" alt="larissa-alvarenga" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=larissa-alvarenga" alt="larissa-alvarenga" /></a> </p>
-
 - 🌱 I’m currently learning **Python, Bash and Cybersecurity**
 
-<h3 align="left">Connect with me:larissa_alvarenga@hotmail.com</h3> 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -19,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larissa-alvarenga&show_icons=true&locale=en" alt="larissa-alvarenga" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larissa-alvarenga&" alt="larissa-alvarenga" /></p>
+
