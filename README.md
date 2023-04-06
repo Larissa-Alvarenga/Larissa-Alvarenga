@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Larissa</h1>
-<h3 align="center">Cybersecurity major @ MDC | Protecting your data one byte at a time.</h3>
+<h1 align="center">Hi 👋!</h1>
+<h3 align="center">I'm Larissa, a self-proclaimed cybersecurity superhero-in-training. My mission: to defend the digital world from the forces of evil! Or at least, try to.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larissa-alvarenga&label=Profile%20views&color=0e75b6&style=flat" alt="larissa-alvarenga" /> </p>
 
