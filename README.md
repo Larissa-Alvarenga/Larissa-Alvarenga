@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Bash and Cybersecurity**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: larissa_alvarenga@hotmail.com</h3>
 <p align="left">
 </p>
 
